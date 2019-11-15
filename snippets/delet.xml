@@ -107,4 +107,7 @@
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
+  <remove-project name="platform/frameworks/rs" />
+  <remove-project name="platform/external/skia" />
+  <remove-project name="platform/system/libhwbinder" />
 </manifest>

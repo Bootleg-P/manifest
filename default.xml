@@ -16,6 +16,10 @@
            fetch="https://gitlab.com/BootleggersROMBig"
            revision="pasta" />
 
+  <remote  name="trb"
+	   fetch="https://github.com/Bootleg-P"
+	   revision="pasta" />
+
   <remote  name="los"
            fetch="https://github.com/LineageOS"
            revision="refs/heads/lineage-16.0" />
