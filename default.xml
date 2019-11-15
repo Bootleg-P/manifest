@@ -20,7 +20,7 @@
            fetch="https://github.com/LineageOS"
            revision="refs/heads/lineage-16.0" />
 
-  <default revision="refs/tags/android-9.0.0_r49"
+  <default revision="refs/tags/android-9.0.0_r50"
            remote="aosp"
            sync-c="true" />
 
