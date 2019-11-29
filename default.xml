@@ -375,7 +375,6 @@
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
   <project path="external/speex" name="platform/external/speex" groups="pdk" />
   <project path="external/spirv-llvm" name="platform/external/spirv-llvm" groups="pdk" />
-  <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" />
   <project path="external/squashfs-tools" name="platform/external/squashfs-tools" groups="pdk" />
   <project path="external/strace" name="platform/external/strace" groups="pdk" />
   <project path="external/stressapptest" name="platform/external/stressapptest" groups="pdk" />
@@ -508,7 +507,6 @@
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
   <project path="kernel/configs" name="kernel/configs" groups="vts,pdk" />
   <project path="kernel/tests" name="kernel/tests" />
-  <project path="libcore" name="platform/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" groups="pdk-fs" />
