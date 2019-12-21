@@ -29,7 +29,7 @@
   <project path="frameworks/bootleggers" name="frameworks_bootleggers" remote="bootleggers" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="trb" />
   <project path="frameworks/opt/slimrecent" name="frameworks_opt_slimrecent" groups="pdk" remote="bootleggers" />
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="bootleggers" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="trb" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs"  remote="trb" />
   <project path="frameworks/support" name="frameworks_support" groups="pdk" remote="bootleggers" />
   <project path="frameworks/rs" name="frameworks_rs" groups="pdk" remote="trb" />
@@ -50,12 +50,12 @@
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" groups="pdk-fs" remote="trb" />
   <project path="packages/apps/Phonograph" name="packages_apps_Phonograph" remote="bootleggers" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="bootleggers" />
-  <project path="packages/apps/Stk" name="packages_apps_Stk" remote="bootleggers" />
+  <project path="packages/apps/Stk" name="packages_apps_Stk" remote="trb" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="trb" />
   <project path="packages/apps/ShishuOTA" name="packages_apps_ShishuOTA" remote="bootleggers" />
   <project path="packages/overlays/Shishufied" name="packages_overlays_Shishufied" groups="pdk" remote="trb" />
   <project path="packages/apps/Snap" name="packages_apps_Snap" remote="bootleggers" />
-  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="bootleggers" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="trb" />
   <project path="packages/providers/WeatherClient" name="packages_apps_WeatherClient" groups="pdk-cw-fs,pdk-fs" remote="bootleggers" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="bootleggers" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="bootleggers" />
@@ -159,7 +159,7 @@
   <project path="external/nano" name="android_external_nano" remote="los" />
   <project path="external/openssh" name="android_external_openssh" remote="los" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="los" />
-  <project path="external/perfetto" name="external_perfetto" remote="bootleggers" />
+  <project path="external/perfetto" name="external_perfetto" remote="trb" />
   <project path="external/p7zip" name="android_external_p7zip" remote="los" />
   <project path="external/pigz" name="android_external_pigz" remote="los" />
   <project path="external/roboto-fonts" name="external_roboto-fonts" remote="bootleggers" />
