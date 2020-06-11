@@ -34,7 +34,7 @@
   <project path="frameworks/opt/slimrecent" name="frameworks_opt_slimrecent" groups="pdk" remote="bootleggers" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="trb" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs"  remote="trb" />
-  <project path="frameworks/support" name="frameworks_support" groups="pdk" remote="bootleggers" />
+  <project path="frameworks/support" name="frameworks_support" groups="pdk" remote="trb" />
   <project path="frameworks/rs" name="frameworks_rs" groups="pdk" remote="trb" />
   <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="los"/>
   <project path="hardware/bootleg/interfaces" name="hardware_bootleg_interfaces" remote="bootleggers" />
