@@ -306,7 +306,7 @@
   <project path="external/perfetto" name="platform/external/perfetto" groups="pdk" />
   <project path="external/piex" name="platform/external/piex" groups="pdk" />
   <project path="external/ply" name="platform/external/ply" groups="pdk" />
-  <project path="external/ppp" name="platform/external/ppp" groups="pdk" />
+  <project path="external/ppp" name="android_external_ppp" groups="pdk" remote="los"/>
   <project path="external/proguard" name="platform/external/proguard" groups="pdk" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" />
   <project path="external/puffin" name="platform/external/puffin" groups="pdk" />
