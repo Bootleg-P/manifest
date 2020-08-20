@@ -28,7 +28,7 @@
   <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" groups="pdk,tradefed" remote="bootleggers" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="bootleggers" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="trb" />
-  <project path="frameworks/base" name="frameworks_base" remote="trb" />
+  <project path="frameworks/base" name="frameworks_base" remote="trb" revision="r59" />
   <project path="frameworks/bootleggers" name="frameworks_bootleggers" remote="bootleggers" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="trb" />
   <project path="frameworks/opt/slimrecent" name="frameworks_opt_slimrecent" groups="pdk" remote="bootleggers" />
@@ -66,7 +66,7 @@
   <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="bootleggers" clone-depth="1" />
   <project path="system/bt" name="android_system_bt" remote="los" />
   <project path="system/qcom" name="system_qcom" groups="pdk" remote="bootleggers" />
-  <project path="system/core" name="system_core" groups="pdk" remote="bootleggers-bff" />
+  <project path="system/core" name="system_core" groups="pdk" remote="trb" />
   <project path="system/extras" name="system_extras" groups="pdk" remote="bootleggers-bff" />
   <project path="system/libhwbinder" name="system_libhwbinder" groups="pdk" remote="trb" />
   <project path="system/netd" name="system_netd" groups="pdk" remote="bootleggers" />
